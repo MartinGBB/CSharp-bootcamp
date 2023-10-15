@@ -1,0 +1,15 @@
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/bin/Debug/net7.0/Lamp
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/bin/Debug/net7.0/Lamp.deps.json
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/bin/Debug/net7.0/Lamp.runtimeconfig.json
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/bin/Debug/net7.0/Lamp.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/bin/Debug/net7.0/Lamp.pdb
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.csproj.AssemblyReference.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.AssemblyInfoInputs.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.AssemblyInfo.cs
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.csproj.CoreCompileInputs.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/refint/Lamp.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.pdb
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/Lamp.genruntimeconfig.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/Lamp/obj/Debug/net7.0/ref/Lamp.dll
