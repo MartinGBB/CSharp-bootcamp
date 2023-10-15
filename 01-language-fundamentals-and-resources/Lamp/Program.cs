@@ -34,6 +34,4 @@ decimal squareMeter = width * length;
 decimal quotientX = power / 18M;
 decimal totalLightBulbs = squareMeter / quotientX;
 
-// Console.WriteLine(width + length + power);
-
 Console.WriteLine("Para iluminar o cômodo: " + convenient + " com " + squareMeter.ToString("N2") + " metros quadrados " + "será necessário a instalação de " + totalLightBulbs.ToString("N2") + " lâmpada(s)");
