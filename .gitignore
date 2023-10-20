@@ -1,0 +1,17 @@
+/bin/
+/obj/
+
+*.bak
+
+.vscode/
+.vs/
+
+*.suo
+*.user
+*.suo
+*.sln.docstates
+/.idea/
+
+/packages/
+/nuget/
+/node_modules/
