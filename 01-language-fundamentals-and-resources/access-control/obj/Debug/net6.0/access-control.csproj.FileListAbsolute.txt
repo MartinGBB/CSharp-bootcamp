@@ -1,0 +1,15 @@
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/bin/Debug/net6.0/access-control
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/bin/Debug/net6.0/access-control.deps.json
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/bin/Debug/net6.0/access-control.runtimeconfig.json
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/bin/Debug/net6.0/access-control.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/bin/Debug/net6.0/ref/access-control.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/bin/Debug/net6.0/access-control.pdb
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.csproj.AssemblyReference.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.AssemblyInfoInputs.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.AssemblyInfo.cs
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.csproj.CoreCompileInputs.cache
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/ref/access-control.dll
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.pdb
+/home/martin/Courses/CSharp-bootcamp/01-language-fundamentals-and-resources/access-control/obj/Debug/net6.0/access-control.genruntimeconfig.cache
